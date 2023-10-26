@@ -1,0 +1,36 @@
+a{
+    font-family: Kablammo, cursive;
+    text-decoration: none;
+    color:darkblue;
+    transition: 0.5s;
+}
+h1{
+    font-family: Kablammo, cursive;
+    text-align: center;
+    color: darkblue;
+    transition: 0.5s;
+    }
+div{
+    text-align: center;
+}
+.menu-item{
+    background-color: #bfccff;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+}
+a:hover{
+    letter-spacing: 3px;
+}
+h1:hover{
+    letter-spacing: 3px;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 1px;
+}
+img{
+    width: 80%;
+    margin: 20px;
+}
+
